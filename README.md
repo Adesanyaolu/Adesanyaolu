@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a software engineering student @ALX
-- 🌱 Learning Javascript on the side.
-- 👯 I’m looking to collaborate on Front-End Tasks involving HTML, CSS, Bootstrap and Vanilla JavaScript
+- 🌱 Learning REACT JS - Road to MERN stack!
+- 👯 I’m looking to collaborate on Front-End Tasks involving HTML, CSS, Bootstrap 5, Vanilla JavaScript and REACT JS.
 - 🤔 I’m looking for help with participating in open source projects and collaborating
 - 💬 Ask me about anything you want to talk about
 - 📫 How to reach me: @ade_sanyaolu on twitter

@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 -->
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Adesanyaolu)](https://git.io/streak-stats)
+
 - 🔭 I’m a software engineering student @ALX
 - 🌱 Learning REACT JS - Road to MERN stack!
 - 👯 I’m looking to collaborate on Front-End Tasks involving HTML, CSS, Bootstrap 5, Vanilla JavaScript and REACT JS.

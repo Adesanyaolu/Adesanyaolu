@@ -17,4 +17,8 @@ My lessons in VueJS, TypeScript, and Python allows me to build dynamic and scala
 
 With a focus on delivering clean and maintainable code, I strive to create products that not only meet but exceed my clients' expectations. I am always seeking new challenges and opportunities to grow as a software engineer and to make a positive impact in the industry.
 
+# Statistics
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adesanyaolu)](https://github.com/ryo-ma/github-profile-trophy)
+
 

@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Adesanyaolu)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adesanyaolu&theme=dark&hide_border=true&border_radius=5&border=EB5454)](https://git.io/streak-stats)
 
 - 🔭 I’m a software engineering student @ALX
 - 🌱 Learning REACT JS - Road to MERN stack!

@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 
 # About
 
-As a full stack software engineer in progress, I bring a passion for developing innovative and efficient web applications. With a strong foundation in HTML, CSS, Bootstrap, and Tailwind CSS, I have honed my skills in creating visually appealing and user-friendly interfaces.
+As a Front End Engineer, I bring a passion for developing innovative and efficient web applications. With a strong foundation in HTML, CSS, Bootstrap, Tailwind CSS, Javascript, React JS and NEXT JS. I have honed my skills in creating visually appealing and user-friendly interfaces.
 
-My lessons in VueJS, TypeScript, and Python allows me to build dynamic and scalable front-end and back-end systems. I am also learning to utilize MySQL and NodeJS to create robust and reliable databases, ensuring data integrity and security.
+<!-- My lessons in VueJS, TypeScript, and Python allows me to build dynamic and scalable front-end and back-end systems. I am also learning to utilize MySQL and NodeJS to create robust and reliable databases, ensuring data integrity and security. -->
 
 With a focus on delivering clean and maintainable code, I strive to create products that not only meet but exceed my clients' expectations. I am always seeking new challenges and opportunities to grow as a software engineer and to make a positive impact in the industry.
 
